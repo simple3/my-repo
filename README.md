@@ -1,5 +1,6 @@
 my-repo
 =======
 
-my repo, created at 15:44
+my repo
+created at 15:44
 
